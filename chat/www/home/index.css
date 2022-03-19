@@ -1,0 +1,19 @@
+.header {
+    text-align: center;
+}
+
+body {
+    align-items: center;
+}
+
+.image {
+    align-items: center;
+}
+
+.text {
+    text-align: center;
+}
+.all-container{
+    padding: '30%',
+    
+}

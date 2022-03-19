@@ -21,8 +21,7 @@ export default class ChatWelcome {
 					</span>
 					<h3>${__('Hi there ! 🙌🏼')}</h3>
 					<p>
-						${__('We make it simple to connect with us.')}
-						${__('Ask us anything, or share your feedback.')}
+						${__('Tell us a little about you')}
 					</p>
 			</div>
 		`;
@@ -45,8 +44,8 @@ export default class ChatWelcome {
 					id='start-conversation'>
 					${__('Start Conversation')}
 				</button>
-				<a class='chat-footer welcome-footer' target='_blank' href='https://frappeframework.com/'>
-					${__('⚡ Powered by Frappe')}
+				<a class='chat-footer welcome-footer' target='_blank' href='#'>
+					${__('⚡ iPsych')}
 				</a>
 			</div>
 		`;
